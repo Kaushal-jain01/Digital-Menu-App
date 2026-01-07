@@ -38,8 +38,8 @@ A Django-based web application that generates QR codes for digital restaurant me
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/django-qr-menu-generator.git
-cd django-qr-menu-generator
+git clone https://github.com/Kaushal-jain01/Digital-Menu-App.git
+cd Digital-Menu-App
 ```
 
 ### 2️⃣ Create and activate virtual environment
